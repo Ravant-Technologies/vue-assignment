@@ -33,6 +33,7 @@ For Eg: feature/{github-username}
   - ABC Crypto
   - XYZ Crypto
 - When you select ABC Crypto then load the `/src/data/abc.json` and XYZ Crypto to load `/src/data/xyz.json` in chart.
+- When you choose the data, the label / heading in chart should be changed based on the data loaded in chart.
 - Implement with proper responsiveness of chart.
 - Write clean, maintainable, and well-documented code.
 - Use Git for version control and commit your code regularly to the forked public Git repository in your profile.
