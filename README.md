@@ -47,7 +47,7 @@ For Eg: feature/{github-username}
 5. Provide a DOCS.md file with instructions on how to set up and run your application.
 6. Once you have completed the assignment, share the repository URL along with the live deployed URL of your project to the mail.
 
-- Submission Deadline: Monday, November 28, 2023, 10:00 AM
+- Submission Deadline: Tuesday, November 28, 2023, 10:00 AM
 
 Note: The assignment is intentionally challenging to complete all the mentioned requirements. Focus on delivering high-quality code and meeting the core requirements first.
 
