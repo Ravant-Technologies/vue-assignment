@@ -2,7 +2,7 @@
 
 ## Assignment Description:
 
-In this assignment, you will be tasked with developing a Next.js application that demonstrates your proficiency in advanced Vue.js concepts and web development skills. The assignment will assess your ability to architect and implement complex features using Vue.js and related technologies. You must submit with specific functionality and meet the criteria outlined below.
+In this assignment, you will be tasked with developing a Vue.js application that demonstrates your proficiency in advanced Vue.js concepts and web development skills. The assignment will assess your ability to architect and implement complex features using Vue.js and related technologies. You must submit with specific functionality and meet the criteria outlined below.
 
 ## Project Information
 
